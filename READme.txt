@@ -1,4 +1,4 @@
--Plik vsearch4letters.py umieścic w katalogu webapp, który to będzie katalogiem nadrzędnym dla poniższych katalogów
+-Plik vsearch4web.py umieścic w katalogu webapp, który to będzie katalogiem nadrzędnym dla poniższych katalogów
 
 -Pliki:
 base.html
